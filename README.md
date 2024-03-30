@@ -1,2 +1,2 @@
-﻿# simple chat-app uses socket.io
-![](https://github.com/Sammar-Hayat/chat-app-socket-io/blob/main/Screenshot%202024-03-30%20115827.png)
+﻿# Simple Chat-App Uses Socket.io
+![](https://github.com/Sammar-Hayat/chat-app-socket-io/blob/main/public/image/Screenshot%202024-03-30%20121250.png)
